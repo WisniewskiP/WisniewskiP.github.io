@@ -10,7 +10,7 @@ ist fur mich sehr wichtig.
 
 Ich habe mich mit werschidnen Entwicklungswerkzeugen beschewtig um werschiedne 
 verbesserung moeglichkeiten zu evaluieren. Ich war in verschiednen projekten mit 
-[Continuous Integration]({% link continuous_integration.md %}) beschewtig, von 
+[Continuous Integration]({% link ci.md %}) beschewtig, von 
 einfuhrung bis zu optimalisierung. Ich habe also teams usterstutzt die Manueletests
 in [Automatischetests]({% link test_automation.md %}) umzuwandeln. Und danach
 gesampte Testprozess zu verbessern und optimalisieren. 
