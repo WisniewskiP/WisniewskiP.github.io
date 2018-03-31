@@ -3,4 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-I have many years of experience in Software development. I was working with different platforms such as Microcontrollers, desktop applications as well as FPGAs. During this time I was also involved in quality assurance, build process and test automation. At this moment I would like to share knowledge that I collected during my career.
+Ich habe mehre Jahre Erfahrung in verschiedenen Bereichen der Softwareentwicklung. 
+Ich habe mich u.a. mit dem Design von Software für Mikrocontrollern, FPGA als auch 
+Desktop Anwendungen beschäftigt. Außer Softwaredesign [Softwarequalitet]({% link code_reviews.md %})
+ist fur mich sehr wichtig. 
+
+Ich habe mich mit werschidnen Entwicklungswerkzeugen beschewtig um werschiedne 
+verbesserung moeglichkeiten zu evaluieren. Ich war in verschiednen projekten mit 
+[Continuous Integration]({% link continuous_integration.md %}) beschewtig, von 
+einfuhrung bis zu optimalisierung. Ich habe also teams usterstutzt die Manueletests
+in [Automatischetests]({% link test_automation.md %}) umzuwandeln. Und danach
+gesampte Testprozess zu verbessern und optimalisieren. 
+
