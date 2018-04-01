@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Über mich
 permalink: /about/
 ---
 Ich habe mehre Jahre Erfahrung in verschiedenen Bereichen der Softwareentwicklung. 
