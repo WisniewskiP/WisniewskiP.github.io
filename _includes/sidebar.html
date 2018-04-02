@@ -30,12 +30,12 @@
         {% endfor %}
 
       </nav>
-      <div>
-        {% if site.email %}<a class="sidebar-social" href="mailto:{{ site.email }}"><img src="/public/email.png" alt="Email"></img></a>{% endif %}
-        {% if site.xing_username %}<a class="sidebar-social" href="https://www.xing.com/profile/{{ site.xing_username }}"><img src="/public/Xing.png"></img></a>{% endif %}
-        {% if site.linkedin_username %}<a class="sidebar-social" href=""><img src="/public/LinkedIn.png"></img></a>{% endif %}
-        {% if site.github_username %}<a class="sidebar-social" href=""><img src="/public/GitHub.png"></img></a>{% endif %}
-        {% if site.twitter_username %}<a class="sidebar-social" href=""><img src="/public/Twitter.png"></img></a>{% endif %}
+      <div class="sidebar-social">
+        {% if site.email %}<a href="mailto:{{ site.email }}"><img src="/public/email.png" alt="Email"></img></a>{% endif %}
+        {% if site.xing_username %}<a href="https://www.xing.com/profile/{{ site.xing_username }}"><img src="/public/Xing.png"></img></a>{% endif %}
+        {% if site.linkedin_username %}<a href=""><img src="/public/LinkedIn.png"></img></a>{% endif %}
+        {% if site.github_username %}<a href=""><img src="/public/GitHub.png"></img></a>{% endif %}
+        {% if site.twitter_username %}<a href=""><img src="/public/Twitter.png"></img></a>{% endif %}
       </div>
       <p class="sidebar-copyright">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
     </div>
