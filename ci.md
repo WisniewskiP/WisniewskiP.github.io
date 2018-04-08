@@ -3,16 +3,17 @@ layout: page
 title: Continuous Integration
 ---
 ## Einführung
-Ich kann Ihnen helfen Continuous Integration in Ihre Firma einzuführen.
-Wir können Build Infrastructure für Ihre Projekte einrichten.
-Zusätzlich kann ich Ihr Team schulen, so dass Sie Wartung und Erweiterungen von CI selbst
-durchführen können.
 
-## Optimalisierung
-Wenn Sie bereits eine CI in Ihre Firma haben, sind abar damit nicht ganz zufrieden,
-können wir das gesamte Process analisieren und Verbesserungen vornehmen.
+Ich kann Ihnen helfen, Continuous Integration in Ihrer Firma einzuführen.
+Wir können die Build Infrastructure für Ihre Projekte einrichten.
+Zusätzlich kann ich Ihr Team schulen, so dass Sie Wartung und Erweiterungen 
+der CI selbst durchführen können.
+
+## Optimierung
+Wenn Sie bereits die CI anwenden, und es bestehen jedoch noch Probleme, 
+können wir den gesamten Prozess analysieren und Verbesserungen vornehmen.
 
 ## Erweiterung
-Haben Sie neues Werkzeug und wissen Sie nicht wie Sie es mit CI werbinden sollen?
-Brauchen Sie weitere Bericht Möglichkeiten?
+Haben Sie ein neues Werkzeug und Sie wissen nicht, wie Sie es mit CI verbinden?
+Brauchen Sie weitere Berichtsmöglichkeiten? 
 Kontaktieren Sie mich und gemeinsam können wir die Möglichkeiten analysieren.
