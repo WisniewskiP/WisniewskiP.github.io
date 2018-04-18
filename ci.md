@@ -4,9 +4,9 @@ title: Continuous Integration
 ---
 ## Einführung
 
-Ich kann Ihnen helfen, Continuous Integration in Ihrer Firma einzuführen.
+Ich kann Ihnen helfen, Continuous Integration (CI) in Ihrer Firma einzuführen.
 Wir können die Build Infrastruktur für Ihre Projekte einrichten.
-Zusätzlich kann ich Ihr Team schulen, so dass Sie Wartung und Erweiterungen 
+Zusätzlich kann ich Ihr Team schulen, so dass Sie die Wartung und Erweiterung 
 der CI selbst durchführen können.
 
 ## Optimierung

@@ -9,8 +9,8 @@ Desktopanwendungen beschäftigt. Neben dem Softwaredesign ist für mich die [Sof
 sehr wichtig.
 
 Ich habe mich mit verschiedenen Entwicklungswerkzeugen beschäftigt, um unterschiedliche 
-Verbesserungsmöglichkeiten zu evaluieren. Ich war in verschiedenen Projekten mit 
+Verbesserungsmöglichkeiten zu evaluieren. In verschiedenen Projekten habe ich mich mit 
 [Continuous Integration]({% link ci.md %}) von der Einführung bis zur Optimierung 
-beschäftigt. Ich habe Teams dabei unterstützt, manuele in [automatische]({% link testautomatisierung.md %}) 
+beschäftigt. Ich habe Teams unterstützt, um die manuelle in [automatische]({% link testautomatisierung.md %}) 
 Tests umzuwandeln. Im Anschluss folgte die Optimierung der Testprozesse.
 
