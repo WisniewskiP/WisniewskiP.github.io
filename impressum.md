@@ -84,6 +84,7 @@ dieser Website verhindert: Google Analytics deaktivieren
 Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der
 Datenschutzerklärung von Google: <https://support.google.com/analytics/answer/6004245?hl=de>
 
+{% if site.twitter_username %}
 ## Twitter
 Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden
 angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch
@@ -95,7 +96,8 @@ in der Datenschutzerklärung von Twitter unter <https://twitter.com/privacy>.
 
 Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter:
 <https://twitter.com/account/settings> ändern.
-
+{% endif %}
+{% if site.linkedin_username %}
 ## LinkedIn
 Unsere Website nutzt Funktionen des Netzwerks LinkedIn. Anbieter ist die LinkedIn Corporation, 2029
 Stierlin Court, Mountain View, CA 94043, USA. Bei jedem Abruf einer unserer Seiten, die Funktionen von
@@ -108,7 +110,8 @@ durch LinkedIn haben.
 
 Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von LinkedIn unter:
 <https://www.linkedin.com/legal/privacy-policy>
-
+{% endif %}
+{% if site.xing_username %}
 ## XING
 Unsere Website nutzt Funktionen des Netzwerks XING. Anbieter ist die XING AG, Dammtorstraße 29-32,
 20354 Hamburg, Deutschland. Bei jedem Abruf einer unserer Seiten, die Funktionen von XING enthält,
@@ -118,6 +121,7 @@ Nutzungsverhalten ausgewertet.
 
 Weitere Information zum Datenschutz und dem XING Share-Button finden Sie in der
 Datenschutzerklärung von XING unter: <https://www.xing.com/app/share?op=data_protection>
+{% endif %}
 
 ## SSL-Verschlüsselung
 Diese Seite nutzt aus Gründen der Sicherheit und zum Schutz der Übertragung vertraulicher Inhalte, wie
