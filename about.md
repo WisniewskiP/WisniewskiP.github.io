@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über mich
-permalink: /about/
+permalink: /
 ---
 Ich habe mehrere Jahre Erfahrung in verschiedenen Bereichen der Softwareentwicklung 
 und habe mich u.a. mit dem Design von Software für Mikrocontroller, FPGAs und 
