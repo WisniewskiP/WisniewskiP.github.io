@@ -11,6 +11,6 @@ sehr wichtig.
 Ich habe mich mit verschiedenen Entwicklungswerkzeugen beschäftigt, um unterschiedliche 
 Verbesserungsmöglichkeiten zu evaluieren. In verschiedenen Projekten habe ich mich mit 
 [Continuous Integration]({% link ci.md %}) von der Einführung bis zur Optimierung 
-beschäftigt. Ich habe Teams unterstützt, um die manuelle in [automatische]({% link testautomatisierung.md %}) 
-Tests umzuwandeln. Im Anschluss folgte die Optimierung der Testprozesse.
+beschäftigt. Ich habe Teams bei der Überführung manueller in [automatische]({% link testautomatisierung.md %})
+Testprozesse unterstützt. Im Anschluss folgte die Optimierung der Testprozesse.
 
